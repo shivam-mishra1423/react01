@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "dom": "^0.0.3",
+    "form": "^0.2.5",
+    "hook": "^0.1.0",
+    "react": "^19.2.8",
+    "react-hook-form": "^7.83.0",
+    "react-router": "^8.3.0",
+    "router": "^2.2.0"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
